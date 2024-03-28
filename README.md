@@ -8,6 +8,8 @@
 <!-- https://simpleicons.org/ -->
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
  </a>
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="50" height="50"/> 
+ </a>
  <a>
  <img src="https://nodejs.org/static/images/logo.svg" width="50" />
  </a>
